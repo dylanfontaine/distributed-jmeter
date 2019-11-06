@@ -1,4 +1,4 @@
-FROM jmeter
+FROM dylanfontaine:jmeter 
 
 WORKDIR $JMETER_HOME
 
